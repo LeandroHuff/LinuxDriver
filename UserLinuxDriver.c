@@ -7,7 +7,7 @@
    device driver need to include this file.
    Writing device driver must include module.h file in our program, it
    contains functions related to this file module.
-   MODULE_LICENSE indicates that we are using GPS free license, GPS means
+   MODULE_LICENSE indicates that we are using GPL free license, GPL means
    GNU Public License.
 
 
