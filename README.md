@@ -10,6 +10,6 @@ This project is a very small source code to show the minimum code need to implem
 
 * [Easy Linux Device Driver](https://www.amazon.com.br/Easy-Linux-Device-Driver-Second-ebook/dp/B00LX9UQX8)
 	* Easy Linux Device Driver, Second Edition: First Step Towards Device Driver Programming (English Edition).
-* [Linux Device Drivers](https://www.apriorit.com)
-	* Tutorial for Linux Driver Development.
+* [How to Write a Device Driver](https://jvgd.medium.com/how-to-write-a-device-driver-76d0584a4be3)
+	* Tutorial for write a Linux Device Driver.
 
